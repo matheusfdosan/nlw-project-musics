@@ -26,7 +26,7 @@ header div {
   width: 120px;
   height: 120px;
   border-radius: 100%;
-  background-image: linear-gradient(to right, #6c7075, #9e9e9e);
+  background-image: linear-gradient(to right, #0b5cff, #4ab44e, #fab61e);
   transition: transform 0.3s;
 }
 
@@ -61,7 +61,7 @@ main section:nth-child(3) {
 
 section {
   margin: 24px;
-  background-image: linear-gradient(to right, #6c7075, #9e9e9e);
+  background-image: linear-gradient(to right, #0b5cff, #4ab44e, #fab61e);
   border-radius: 8px;
   padding-top: 4px;
   animation: fromBottom 1s 0.7s backwards;
